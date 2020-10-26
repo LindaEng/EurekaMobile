@@ -1,0 +1,13 @@
+.canvas-container,
+.lower-canvas,
+.upper-canvas  {
+    height: calc(100vh - 100px) !important;
+    width: calc(100vw - 100px) !important;
+    margin: 0 auto;
+}
+
+.fabric-canvas-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
